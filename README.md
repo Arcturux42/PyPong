@@ -15,6 +15,6 @@ The goal is to bounce the ball with your paddle and prevent it from passing your
 The player who misses the ball gives a point to their opponent. The first player to reach a certain number of points wins the game.
 
 # Project Structure
-main.py: The main file of the game.\n
-player.py: The file containing the player object.\n
+main.py: The main file of the game.  
+player.py: The file containing the player object.  
 ball.py: The file containing the ball object.

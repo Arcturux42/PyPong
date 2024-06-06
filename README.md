@@ -7,3 +7,14 @@ Pong is one of the earliest video games, released in 1972. It's a virtual table 
 # Installation Instructions
 Make sure you have Python installed on your system. If not, you can download it from the official Python website.
 If you haven't already, install Pygame.
+
+# Game Instructions
+Use the up and down arrow keys to move player 2's paddle.
+For player 1, use the S and X keys to move the paddle up and down.
+The goal is to bounce the ball with your paddle and prevent it from passing your side of the screen.
+The player who misses the ball gives a point to their opponent. The first player to reach a certain number of points wins the game.
+
+# Project Structure
+main.py: The main file of the game.
+player.py: The file containing the player object.
+ball.py: The file containing the ball object.
